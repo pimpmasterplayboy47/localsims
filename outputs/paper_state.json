@@ -1,0 +1,11 @@
+{
+  "initial_cash": 10000.0,
+  "cash": 9936.6911796875,
+  "position_side": "long",
+  "position_qty": 0.001,
+  "entry_price": 63308.8203125,
+  "entry_time": "2026-06-08 22:45:00+00:00",
+  "last_processed_candle": "2026-06-09 01:00:00+00:00",
+  "realized_profit": 0.0,
+  "completed_trades": 0
+}
